@@ -1,0 +1,58 @@
+Attached Element Context from Integrated Browser
+
+Element: p.eyebrow
+
+URL: file:///C:/Users/nickd/OneDrive/VS%20Studio%20Work/index.html#projects
+
+HTML Path: main > section#contact.contact-section > div > p.eyebrow
+
+Outer HTML:
+```html
+<p class="eyebrow">Contact</p>
+```
+
+Dimensions:
+- top: 266px
+- left: 32px
+- width: 548px
+- height: 20px
+
+CSS:
+```css
+* { box-sizing: border-box; }
+.eyebrow { margin: 0 0 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #4B9CD3; }
+.hero-text, .section-note, .service-grid p, .about-grid p, .contact-section p, .contact-card p, blockquote, figcaption { color: var(--muted); }
+.service-grid p, .about-grid p, .trust-grid p, .contact-section p, .contact-card p { margin: 0;
+  line-height: 1.72; }
+
+/* Inherited */
+body { font-family: "Manrope", system-ui, sans-serif; color: var(--text) }
+
+/* Resolved values */
+margin: 0px;
+box-sizing: border-box;
+color: rgb(94, 106, 116);
+display: block;
+font-family: Manrope, system-ui, sans-serif;
+font-size: 11.52px;
+font-weight: 800;
+height: 19.8125px;
+letter-spacing: 2.0736px;
+line-height: 19.8144px;
+margin-block-end: 0px /*UA*/;
+margin-block-start: 0px /*UA*/;
+margin-inline-end: 0px /*UA*/;
+margin-inline-start: 0px /*UA*/;
+text-transform: uppercase;
+unicode-bidi: isolate /*UA*/;
+width: 548px;
+
+/* CSS variables */
+--text: #18222c;
+--muted: #5e6a74;
+```
